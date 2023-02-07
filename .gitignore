@@ -1,2 +1,5 @@
 
-PyReg/.vs
+PyReg/.vs\PyReg
+*.vsidx
+*.lock
+PyReg/.vs/PyReg/v17/.suo
